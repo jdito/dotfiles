@@ -75,4 +75,4 @@ set background=dark
 "colorscheme solarized
 
 autocmd FileType go setlocal shiftwidth=2 tabstop=2 noexpandtab
-autocmd FileType py setlocal shiftwidth=4 tabstop=4 
+autocmd FileType python setlocal shiftwidth=4 tabstop=4 expandtab

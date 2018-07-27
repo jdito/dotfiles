@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/jdito/.local/share/applications/javaws'
+let g:netrw_dirhist_2='/u/jdito/.byobu'
+let g:netrw_dirhist_3='/data/salt/salt/Colo_Servers/states/endace'
+let g:netrw_dirhist_4='/data/salt/salt/Colo_Servers/states/endace/files'
+let g:netrw_dirhist_5='/data/salt/pillar/colo'

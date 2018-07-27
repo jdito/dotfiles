@@ -3,7 +3,7 @@ if did_filetype()
 endif
 
 if getline(1) =~# '^#!.*python'
-  setfiletype py
+  setfiletype python
 endif
 
 if getline(1) =~# '^#!.*bash'
